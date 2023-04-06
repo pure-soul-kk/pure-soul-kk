@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **java , c++ and python**
 
-- 📫 How to reach me **krishnakripa34567@gmail.com**
+- 📫 How to reach me **https://t.me/pure_soul_kk**
 
 - ⚡ Fun fact **I am a complete Noob**
 
