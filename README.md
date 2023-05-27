@@ -7,13 +7,11 @@
 
 - 🔭 I’m currently working on **AOSP**
 
-- 🌱 I’m currently learning **java , sql etc.**
+- 🌱 I’m currently studying in **Class 11**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **java , c++ and python**
-
-- 📫 How to reach me **https://t.me/pure_soul_kk**
+- 📫 How to reach me: Telegram **@pure_soul_kk**
 
 - ⚡ Fun fact **I am a complete Noob**
 
