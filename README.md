@@ -15,6 +15,7 @@
 
 - ⚡ Fun fact **I am a complete Noob**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pure-soul-kk&show_icons=true&locale=en" alt="pure-soul-kk" /></p>
+
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pure-soul-kk&" alt="pure-soul-kk" /></p>
