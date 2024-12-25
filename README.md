@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krishna</h1>
 <h3 align="center">A Noob Programmer from India</h3>
-<br>
-<br>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-
 # 💫 About Me:
 
 :<br>🔭 I’m currently working on AOSP<br><br>🌱 I’m currently studying in Class 11<br><br>👯 I’m looking to collaborate on Open Source Projects<br><br>📫 How to reach me: Telegram @pure_soul_kk<br><br>⚡ Fun fact I am a complete Noob
