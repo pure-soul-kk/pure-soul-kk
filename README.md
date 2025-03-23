@@ -1,6 +1,6 @@
 <h1 align="center"><hr>Konichiwa, Orewa Krishna<hr></h1>
 
-<img src="https://imgur.com/AbUFrGi.png" alt="Ayanokoji"/>
+<img src="https://i.imgur.com/IE7ZUea.jpeg" alt="Ayanokoji"/>
 
 <h1>About Me:</h1>
 
