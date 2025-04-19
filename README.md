@@ -4,13 +4,13 @@
 
 <h1>About Me:</h1>
 
-Just an oridnary, no-one special, 18-year-old just starting out in coding. I'm really into programming, tech, and anime.
+Just an oridnary, no-one special, 18-year-old just starting out in coding. I'm really into programming, tech, anime and reading books.
 
 <h2>So, what am i doing these days?</h2>
 
 I usually code, study, watch anime, listen to music. I'm diving into a few coding languages, and I try to make time for fun stuff too.
 
-- I am currently studying in Class 11
+- I am currently studying in Class 12
 
 - I am currently learning Java, Python and Android Rom Development.
 
