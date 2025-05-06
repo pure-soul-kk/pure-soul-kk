@@ -26,15 +26,13 @@ I'll learn more programming languages soon...
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2051%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-80.4%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 4.6 MB Used in GitHub's Storage 
- > 
-> 🏆 189 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -69,14 +67,14 @@ Sunday                   342 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 13 mins        █████████████████████████   99.06 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Python                   1 hr 58 mins        █████████████████████████   99.41 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 🔥 Editors: 
-VS Code                  1 hr 14 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 59 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 14 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 59 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Makefile** 
@@ -92,7 +90,7 @@ Starlark                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/05/2025 01:34:28 UTC
+ Last Updated on 06/05/2025 01:30:10 UTC
 <!--END_SECTION:waka-->
 
 
