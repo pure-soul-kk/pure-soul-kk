@@ -69,14 +69,13 @@ Sunday                   343 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 min               ██████████████████████░░░   89.97 % 
-Text                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Makefile** 
@@ -92,7 +91,7 @@ Starlark                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/05/2025 01:28:49 UTC
+ Last Updated on 16/05/2025 01:31:30 UTC
 <!--END_SECTION:waka-->
 
 
