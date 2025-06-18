@@ -69,13 +69,14 @@ Sunday                   365 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   6 mins              ██████████████████░░░░░░░   71.55 % 
+Other                    2 mins              ███████░░░░░░░░░░░░░░░░░░   28.45 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  8 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  8 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Makefile** 
@@ -91,7 +92,7 @@ Starlark                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/06/2025 01:33:58 UTC
+ Last Updated on 18/06/2025 01:34:03 UTC
 <!--END_SECTION:waka-->
 
 
