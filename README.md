@@ -106,4 +106,4 @@ Starlark                 1 repo              ░░░░░░░░░░░�
 
 <hr>
 
-<img src="https://komarev.com/ghpvc/?username=pure-soul-kk&label=Profile%20Views&color=000000&style=flat">
+![counter](https://count.getloli.com/get/@pure-soul-kk?theme=rule34)
