@@ -36,8 +36,6 @@ I usually code, study, watch anime, listen to music. I'm diving into a few codin
 
 > 📦 4.6 MB Used in GitHub's Storage 
  > 
-> 🏆 289 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 38 Public Repositories 
@@ -94,7 +92,7 @@ Starlark                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/08/2025 01:31:02 UTC
+ Last Updated on 23/08/2025 01:28:02 UTC
 <!--END_SECTION:waka-->
 
 ---
