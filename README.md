@@ -36,7 +36,7 @@ I usually code, study, watch anime, listen to music. I'm diving into a few codin
 
 > 📦 4.6 MB Used in GitHub's Storage 
  > 
-> 🏆 305 Contributions in the Year 2025
+> 🏆 306 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -71,14 +71,13 @@ Sunday                   499 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 2 mins         ███████████████████████░░   91.76 % 
-Java                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 7 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 7 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Makefile** 
@@ -94,7 +93,7 @@ Starlark                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2025 01:31:19 UTC
+ Last Updated on 27/08/2025 01:29:38 UTC
 <!--END_SECTION:waka-->
 
 ---
