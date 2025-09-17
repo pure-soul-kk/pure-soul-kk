@@ -28,15 +28,13 @@ I usually code, study, watch anime, listen to music. I'm diving into a few codin
 ### What I've done so far
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%209%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-373.9%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-329.9%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 4.6 MB Used in GitHub's Storage 
  > 
-> 🏆 329 Contributions in the Year 2025
+> 🏆 340 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -44,42 +42,6 @@ I usually code, study, watch anime, listen to music. I'm diving into a few codin
  > 
 > 🔑 14 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                317 commits         ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
-🌆 Daytime                313 commits         ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
-🌃 Evening                569 commits         ███████████░░░░░░░░░░░░░░   43.63 % 
-🌙 Night                  105 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   185 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-Tuesday                  90 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-Wednesday                129 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-Thursday                 168 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-Friday                   181 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-Saturday                 136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-Sunday                   415 commits         ████████░░░░░░░░░░░░░░░░░   31.83 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Makefile** 
 
 ```text
@@ -93,7 +55,7 @@ Starlark                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/09/2025 01:32:04 UTC
+ Last Updated on 17/09/2025 01:28:37 UTC
 <!--END_SECTION:waka-->
 
 ---
