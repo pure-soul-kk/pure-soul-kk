@@ -28,13 +28,13 @@ I usually code, study, watch anime, listen to music. I'm diving into a few codin
 ### What I've done so far
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-329.9%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-330.4%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 4.6 MB Used in GitHub's Storage 
  > 
-> 🏆 340 Contributions in the Year 2025
+> 🏆 342 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -45,17 +45,17 @@ I usually code, study, watch anime, listen to music. I'm diving into a few codin
 **I Mostly Code in Makefile** 
 
 ```text
-Makefile                 25 repos            ███████████░░░░░░░░░░░░░░   42.37 % 
-Shell                    13 repos            ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
-C                        7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-Python                   6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-Starlark                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Makefile                 24 repos            ██████████░░░░░░░░░░░░░░░   41.38 % 
+Shell                    13 repos            ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
+C                        7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+Python                   6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Starlark                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 ```
 
 
 
 
- Last Updated on 17/09/2025 01:28:37 UTC
+ Last Updated on 20/09/2025 01:26:05 UTC
 <!--END_SECTION:waka-->
 
 ---
