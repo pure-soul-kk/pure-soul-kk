@@ -28,7 +28,7 @@ I usually code, study, watch anime, listen to music. I'm diving into a few codin
 ### What I've done so far
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%202%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-129.6%20thousand%20lines%20of%20code-blue)
 
@@ -36,7 +36,7 @@ I usually code, study, watch anime, listen to music. I'm diving into a few codin
 
 > 📦 4.6 MB Used in GitHub's Storage 
  > 
-> 🏆 298 Contributions in the Year 2025
+> 🏆 300 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -57,8 +57,8 @@ I usually code, study, watch anime, listen to music. I'm diving into a few codin
 ```text
 Monday                   191 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
 Tuesday                  97 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-Wednesday                127 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-Thursday                 166 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+Wednesday                125 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+Thursday                 168 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
 Friday                   177 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
 Saturday                 132 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
 Sunday                   411 commits         ████████░░░░░░░░░░░░░░░░░   31.59 % 
@@ -71,13 +71,13 @@ Sunday                   411 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Bash                     3 hrs 27 mins       █████████████████████████   100.00 % 
+Bash                     3 hrs 53 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 27 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 53 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 27 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Makefile** 
@@ -93,7 +93,7 @@ Starlark                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/09/2025 01:29:32 UTC
+ Last Updated on 25/09/2025 01:30:24 UTC
 <!--END_SECTION:waka-->
 
 ---
