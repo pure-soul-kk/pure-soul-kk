@@ -28,7 +28,9 @@ I usually code, study, watch anime, listen to music. I'm diving into a few codin
 ### What I've done so far
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-129.3%20thousand%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%205%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-129.4%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -42,6 +44,45 @@ I usually code, study, watch anime, listen to music. I'm diving into a few codin
  > 
 > 🔑 14 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                198 commits         ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
+🌆 Daytime                183 commits         ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
+🌃 Evening                354 commits         ███████████░░░░░░░░░░░░░░   45.10 % 
+🌙 Night                  50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   108 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+Tuesday                  57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+Wednesday                58 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+Thursday                 88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Friday                   108 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+Saturday                 87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+Sunday                   279 commits         █████████░░░░░░░░░░░░░░░░   35.54 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+XML                      32 mins             █████████████░░░░░░░░░░░░   52.33 % 
+JSON                     19 mins             ████████░░░░░░░░░░░░░░░░░   30.53 % 
+Bash                     10 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+
+🔥 Editors: 
+VS Code                  1 hr 2 mins         █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  1 hr 2 mins         █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Makefile** 
 
 ```text
@@ -55,7 +96,7 @@ Starlark                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2025 01:25:50 UTC
+ Last Updated on 04/10/2025 01:24:29 UTC
 <!--END_SECTION:waka-->
 
 ---
