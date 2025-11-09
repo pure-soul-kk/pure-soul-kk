@@ -95,7 +95,7 @@ Starlark                 1 repo              ░░░░░░░░░░░�
 
  Last Updated on 24/10/2025 01:26:22 UTC
 <!--END_SECTION:waka-->
-
+<!--
 ---
 
 ### 🎶 Vibing to
@@ -108,5 +108,6 @@ Starlark                 1 repo              ░░░░░░░░░░░�
 </a>
 
 ---
+-->
 
 <img src="https://komarev.com/ghpvc/?username=pure-soul-kk&label=Profile%20Views&color=000000&style=flat">
