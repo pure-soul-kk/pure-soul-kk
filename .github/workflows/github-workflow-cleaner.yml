@@ -6,9 +6,6 @@ on:
       GH_TOKEN:
         required: true
   workflow_dispatch:
-  schedule:
-    - cron: '0 */2 * * *'
-
 jobs:
   cleanup:
     name: GitHub Cleanup
