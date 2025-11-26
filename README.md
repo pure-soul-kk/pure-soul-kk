@@ -28,9 +28,9 @@ I usually code, study, watch anime, listen to music. I'm diving into a few codin
 ### What I've done so far
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2030%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-127.9%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-127.3%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -47,21 +47,21 @@ I usually code, study, watch anime, listen to music. I'm diving into a few codin
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                223 commits         ███████░░░░░░░░░░░░░░░░░░   27.88 % 
+🌞 Morning                225 commits         ███████░░░░░░░░░░░░░░░░░░   28.12 % 
 🌆 Daytime                183 commits         ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
-🌃 Evening                357 commits         ███████████░░░░░░░░░░░░░░   44.62 % 
+🌃 Evening                355 commits         ███████████░░░░░░░░░░░░░░   44.38 % 
 🌙 Night                  37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-Tuesday                  56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Monday                   106 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+Tuesday                  55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
 Wednesday                56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
 Thursday                 84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
 Friday                   117 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
 Saturday                 102 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-Sunday                   282 commits         █████████░░░░░░░░░░░░░░░░   35.25 % 
+Sunday                   280 commits         █████████░░░░░░░░░░░░░░░░   35.00 % 
 ```
 
 
@@ -96,7 +96,7 @@ Starlark                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/11/2025 02:38:09 UTC
+ Last Updated on 26/11/2025 02:42:00 UTC
 <!--END_SECTION:waka-->
 <!--
 ---
