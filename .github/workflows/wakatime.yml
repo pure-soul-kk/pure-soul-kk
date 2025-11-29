@@ -8,7 +8,7 @@ jobs:
     name: Update Readme with Metrics[BOT]
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: Krishna-s-Stuffs/waka-readme-stats@test
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
