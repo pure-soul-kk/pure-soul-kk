@@ -28,15 +28,15 @@ I usually code, study, watch anime, listen to music. I'm diving into a few codin
 ### What I've done so far
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2051%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-139.8%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-139.9%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 4.6 MB Used in GitHub's Storage 
  > 
-> 🏆 460 Contributions in the Year 2025
+> 🏆 469 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -47,18 +47,18 @@ I usually code, study, watch anime, listen to music. I'm diving into a few codin
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                235 commits         ███████░░░░░░░░░░░░░░░░░░   28.01 % 
-🌆 Daytime                200 commits         ██████░░░░░░░░░░░░░░░░░░░   23.84 % 
+🌞 Morning                236 commits         ███████░░░░░░░░░░░░░░░░░░   28.13 % 
+🌆 Daytime                199 commits         ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
 🌃 Evening                363 commits         ███████████░░░░░░░░░░░░░░   43.27 % 
 🌙 Night                  41 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-Tuesday                  72 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+Monday                   98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+Tuesday                  74 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
 Wednesday                68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-Thursday                 95 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+Thursday                 94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
 Friday                   117 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
 Saturday                 100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
 Sunday                   288 commits         █████████░░░░░░░░░░░░░░░░   34.33 % 
@@ -97,7 +97,7 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/12/2025 01:47:28 UTC
+ Last Updated on 24/12/2025 01:46:02 UTC
 <!--END_SECTION:waka-->
 <!--
 ---
