@@ -28,9 +28,9 @@ I usually code, study, watch anime, listen to music. I'm diving into a few codin
 ### What I've done so far
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%209%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-141.62%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-141.62%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -47,21 +47,21 @@ I usually code, study, watch anime, listen to music. I'm diving into a few codin
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                253 commits         ███████░░░░░░░░░░░░░░░░░░   28.72 % 
+🌞 Morning                254 commits         ███████░░░░░░░░░░░░░░░░░░   28.83 % 
 🌆 Daytime                206 commits         ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
-🌃 Evening                374 commits         ███████████░░░░░░░░░░░░░░   42.45 % 
+🌃 Evening                373 commits         ███████████░░░░░░░░░░░░░░   42.34 % 
 🌙 Night                  48 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   101 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+Monday                   102 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
 Tuesday                  80 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
 Wednesday                76 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
 Thursday                 100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
 Friday                   128 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
 Saturday                 108 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-Sunday                   288 commits         ████████░░░░░░░░░░░░░░░░░   32.69 % 
+Sunday                   287 commits         ████████░░░░░░░░░░░░░░░░░   32.58 % 
 ```
 
 
@@ -71,14 +71,13 @@ Sunday                   288 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    19 mins             █████████████████████████   99.90 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Makefile** 
@@ -94,7 +93,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/01/2026 01:59:44 UTC
+ Last Updated on 06/01/2026 01:50:09 UTC
 <!--END_SECTION:waka-->
 <!--
 ---
