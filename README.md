@@ -71,13 +71,15 @@ Sunday                   302 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 mins              ██████████████████████░░░   89.67 % 
+XML                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Makefile** 
@@ -93,7 +95,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/02/2026 02:13:30 UTC
+ Last Updated on 23/02/2026 02:14:27 UTC
 <!--END_SECTION:waka-->
 <!--
 ---
