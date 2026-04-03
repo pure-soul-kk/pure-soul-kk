@@ -30,13 +30,13 @@ I usually code, study, watch anime, listen to music. I'm diving into a few codin
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2048%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-314.42%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-321.20%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 4.6 MB Used in GitHub's Storage 
  > 
-> 🏆 29 Contributions in the Year 2026
+> 🏆 33 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -47,21 +47,21 @@ I usually code, study, watch anime, listen to music. I'm diving into a few codin
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                264 commits         ███████░░░░░░░░░░░░░░░░░░   29.60 % 
-🌆 Daytime                203 commits         ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
-🌃 Evening                378 commits         ███████████░░░░░░░░░░░░░░   42.38 % 
+🌞 Morning                259 commits         ███████░░░░░░░░░░░░░░░░░░   29.07 % 
+🌆 Daytime                211 commits         ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
+🌃 Evening                374 commits         ██████████░░░░░░░░░░░░░░░   41.98 % 
 🌙 Night                  47 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-Tuesday                  108 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-Wednesday                83 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-Thursday                 109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-Friday                   123 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Saturday                 100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-Sunday                   278 commits         ████████░░░░░░░░░░░░░░░░░   31.17 % 
+Monday                   91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
+Tuesday                  102 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+Wednesday                81 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Thursday                 117 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+Friday                   123 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Saturday                 100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+Sunday                   277 commits         ████████░░░░░░░░░░░░░░░░░   31.09 % 
 ```
 
 
@@ -86,14 +86,14 @@ No Activity Tracked This Week
 Makefile                 19 repos            ████████░░░░░░░░░░░░░░░░░   32.20 % 
 Shell                    13 repos            ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
 C++                      6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-Kotlin                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+Kotlin                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
 TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 ```
 
 
 
 
- Last Updated on 02/04/2026 02:27:31 UTC
+ Last Updated on 03/04/2026 02:28:41 UTC
 <!--END_SECTION:waka-->
 <!--
 ---
