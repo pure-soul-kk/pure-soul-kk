@@ -39,9 +39,9 @@ I usually code, study, watch anime. I'm diving into a few coding languages, and 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 26 Public Repositories 
+> 📜 25 Public Repositories 
  > 
-> 🔑 14 Private Repositories 
+> 🔑 15 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -80,7 +80,7 @@ Windows                  2 mins              ███████████�
 ```
 
 
- Last Updated on 09/05/2026 02:52:46 UTC
+ Last Updated on 10/05/2026 02:59:57 UTC
 <!--END_SECTION:waka-->
 <!--
 ---
