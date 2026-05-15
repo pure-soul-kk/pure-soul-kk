@@ -29,9 +29,7 @@ I usually code, study, watch anime. I'm diving into a few coding languages, and 
 ### What I've done so far
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-246.32%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-246.35%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -43,44 +41,8 @@ I usually code, study, watch anime. I'm diving into a few coding languages, and 
  > 
 > 🔑 15 Private Repositories 
  > 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                259 commits         ███████░░░░░░░░░░░░░░░░░░   29.07 % 
-🌆 Daytime                224 commits         ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
-🌃 Evening                363 commits         ██████████░░░░░░░░░░░░░░░   40.74 % 
-🌙 Night                  45 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-Tuesday                  108 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-Wednesday                86 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-Thursday                 103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-Friday                   120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-Saturday                 97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-Sunday                   272 commits         ████████░░░░░░░░░░░░░░░░░   30.53 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Text                     2 mins              █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 14/05/2026 03:30:35 UTC
+ Last Updated on 15/05/2026 03:34:31 UTC
 <!--END_SECTION:waka-->
 <!--
 ---
