@@ -29,7 +29,9 @@ I usually code, study, watch anime. I'm diving into a few coding languages, and 
 ### What I've done so far
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-246.35%20thousand%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-246.34%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -41,8 +43,44 @@ I usually code, study, watch anime. I'm diving into a few coding languages, and 
  > 
 > 🔑 15 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 15/05/2026 03:34:31 UTC
+```text
+🌞 Morning                257 commits         ███████░░░░░░░░░░░░░░░░░░   28.59 % 
+🌆 Daytime                228 commits         ██████░░░░░░░░░░░░░░░░░░░   25.36 % 
+🌃 Evening                367 commits         ██████████░░░░░░░░░░░░░░░   40.82 % 
+🌙 Night                  47 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+Tuesday                  110 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+Wednesday                86 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+Thursday                 105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+Friday                   124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Saturday                 97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+Sunday                   272 commits         ████████░░░░░░░░░░░░░░░░░   30.26 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 16/05/2026 02:56:53 UTC
 <!--END_SECTION:waka-->
 <!--
 ---
