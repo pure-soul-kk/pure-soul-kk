@@ -29,9 +29,7 @@ I usually code, study, watch anime. I'm diving into a few coding languages, and 
 ### What I've done so far
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-246.41%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-246.44%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -43,45 +41,8 @@ I usually code, study, watch anime. I'm diving into a few coding languages, and 
  > 
 > 🔑 15 Private Repositories 
  > 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                263 commits         ███████░░░░░░░░░░░░░░░░░░   28.74 % 
-🌆 Daytime                229 commits         ██████░░░░░░░░░░░░░░░░░░░   25.03 % 
-🌃 Evening                368 commits         ██████████░░░░░░░░░░░░░░░   40.22 % 
-🌙 Night                  55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-Tuesday                  112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-Wednesday                86 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-Thursday                 105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-Friday                   122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Saturday                 105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-Sunday                   280 commits         ████████░░░░░░░░░░░░░░░░░   30.60 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Other                    14 mins             ███████████████████░░░░░░   74.84 % 
-C++                      4 mins              ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
-
-🔥 Editors: 
-VS Code                  19 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  19 mins             █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 17/05/2026 03:30:57 UTC
+ Last Updated on 18/05/2026 03:43:58 UTC
 <!--END_SECTION:waka-->
 <!--
 ---
