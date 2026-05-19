@@ -29,7 +29,9 @@ I usually code, study, watch anime. I'm diving into a few coding languages, and 
 ### What I've done so far
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-246.44%20thousand%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2033%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-246.43%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -41,8 +43,46 @@ I usually code, study, watch anime. I'm diving into a few coding languages, and 
  > 
 > 🔑 15 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 18/05/2026 03:43:58 UTC
+```text
+🌞 Morning                261 commits         ███████░░░░░░░░░░░░░░░░░░   28.59 % 
+🌆 Daytime                227 commits         ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
+🌃 Evening                373 commits         ██████████░░░░░░░░░░░░░░░   40.85 % 
+🌙 Night                  52 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Tuesday                  112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+Wednesday                86 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+Thursday                 105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+Friday                   120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+Saturday                 102 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+Sunday                   272 commits         ███████░░░░░░░░░░░░░░░░░░   29.79 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Other                    1 hr                ████████████████████░░░░░   81.33 % 
+Python                   8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+C++                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+
+🔥 Editors: 
+VS Code                  1 hr 14 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  1 hr 14 mins        █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 19/05/2026 03:37:39 UTC
 <!--END_SECTION:waka-->
 <!--
 ---
