@@ -17,12 +17,6 @@ I usually code, study, watch anime. I'm diving into a few coding languages, and 
 <a href="mailto:krishnakripa34567@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://xdaforums.com/m/pure-soul-kk.12553929/"><img src="https://img.shields.io/badge/XDA-F59714?style=flat-square&logo=xda-developers&logoColor=white" alt="XDA"/></a>
 
-### My devices
-
-![Lenovo LOQ](https://img.shields.io/badge/Lenovo%20LOQ%2015IAX9-fd4900?style=flat-square&logo=lenovo&logoSize=auto&logoColor=ff0000&color=ffffff)
-![OnePlus Nord 4](https://img.shields.io/badge/OnePlus%20Nord%204-fd4900?style=flat-square&logo=oneplus&logoSize=auto&logoColor=ff0000&&color=ffffff)
-![Redmi Note 10 Pro](https://img.shields.io/badge/Redmi%20Note%2010%20Pro-fd4900?style=flat-square&logo=xiaomi&logoSize=auto&logoColor=ffa500&&color=ffffff)
-
 
 ---
 
