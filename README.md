@@ -23,6 +23,8 @@ I usually code, study, watch anime. I'm diving into a few coding languages, and 
 ### What I've done so far
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2033%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-246.44%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -74,7 +76,7 @@ Windows                  1 hr 14 mins        ███████████�
 ```
 
 
- Last Updated on 22/05/2026 03:43:01 UTC
+ Last Updated on 23/05/2026 02:59:44 UTC
 <!--END_SECTION:waka-->
 <!--
 ---
