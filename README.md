@@ -23,8 +23,6 @@ I usually code, study, watch anime. I'm diving into a few coding languages, and 
 ### What I've done so far
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2033%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-246.44%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -64,19 +62,18 @@ Sunday                   272 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    1 hr                ████████████████████░░░░░   81.33 % 
-Python                   8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-C++                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+Other                    45 mins             █████████████████████░░░░   83.61 % 
+Python                   8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
 
 🔥 Editors: 
-VS Code                  1 hr 14 mins        █████████████████████████   100.00 % 
+VS Code                  54 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 14 mins        █████████████████████████   100.00 % 
+Windows                  54 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/05/2026 02:59:44 UTC
+ Last Updated on 24/05/2026 03:39:35 UTC
 <!--END_SECTION:waka-->
 <!--
 ---
