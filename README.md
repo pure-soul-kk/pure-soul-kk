@@ -23,7 +23,9 @@ I usually code, study, watch anime. I'm diving into a few coding languages, and 
 ### What I've done so far
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-251.08%20thousand%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-53%20hrs%2018%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-250.98%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -37,8 +39,44 @@ I usually code, study, watch anime. I'm diving into a few coding languages, and 
  > 
 > 🔑 15 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 25/07/2026 02:40:28 UTC
+```text
+🌞 Morning                294 commits         ███████░░░░░░░░░░░░░░░░░░   28.71 % 
+🌆 Daytime                240 commits         ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
+🌃 Evening                439 commits         ███████████░░░░░░░░░░░░░░   42.87 % 
+🌙 Night                  51 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   106 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+Tuesday                  111 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+Wednesday                87 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+Thursday                 110 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+Friday                   135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+Saturday                 135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+Sunday                   340 commits         ████████░░░░░░░░░░░░░░░░░   33.20 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 26/07/2026 02:49:22 UTC
 <!--END_SECTION:waka-->
 <!--
 ---
