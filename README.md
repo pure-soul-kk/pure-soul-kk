@@ -23,9 +23,11 @@ I usually code, study, watch anime. I'm diving into a few coding languages, and 
 ### What I've done so far
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-53%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%2020%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-251.08%20thousand%20lines%20of%20code-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-29%20hrs%2024%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-250.98%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -42,21 +44,21 @@ I usually code, study, watch anime. I'm diving into a few coding languages, and 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                295 commits         ███████░░░░░░░░░░░░░░░░░░   28.72 % 
-🌆 Daytime                240 commits         ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
-🌃 Evening                440 commits         ███████████░░░░░░░░░░░░░░   42.84 % 
-🌙 Night                  52 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+🌞 Morning                296 commits         ███████░░░░░░░░░░░░░░░░░░   28.85 % 
+🌆 Daytime                240 commits         ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
+🌃 Evening                439 commits         ███████████░░░░░░░░░░░░░░   42.79 % 
+🌙 Night                  51 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   106 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-Tuesday                  111 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-Wednesday                87 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-Thursday                 112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-Friday                   135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Saturday                 135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Sunday                   341 commits         ████████░░░░░░░░░░░░░░░░░   33.20 % 
+Monday                   107 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Tuesday                  111 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+Wednesday                87 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+Thursday                 110 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+Friday                   135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Saturday                 135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Sunday                   341 commits         ████████░░░░░░░░░░░░░░░░░   33.24 % 
 ```
 
 
@@ -66,20 +68,26 @@ Sunday                   341 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Bash                     49 mins             ████████████████░░░░░░░░░   63.81 % 
-Text                     18 mins             ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
-C                        9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+Bash                     49 mins             ████████████████░░░░░░░░░   62.49 % 
+Text                     18 mins             ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
+C                        10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
 
 🔥 Editors: 
-Antigravity IDE          1 hr 8 mins         ██████████████████████░░░   88.09 % 
-VS Code                  9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+Antigravity IDE          1 hr 8 mins         ██████████████████████░░░   86.26 % 
+VS Code                  10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
 
 💻 Operating System: 
-Windows                  1 hr 17 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 19 mins        █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 27/07/2026 02:57:29 UTC
+ Last Updated on 28/07/2026 02:34:43 UTC
 <!--END_SECTION:waka-->
 <!--
 ---
