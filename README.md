@@ -23,6 +23,10 @@ I usually code, study, watch anime. I'm diving into a few coding languages, and 
 ### What I've done so far
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%2022%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-29%20hrs%2024%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-251.17%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -64,16 +68,17 @@ Sunday                   341 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Bash                     49 mins             ████████████████░░░░░░░░░   62.49 % 
-Text                     18 mins             ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
-C                        10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+C                        1 hr 4 mins         ████████████░░░░░░░░░░░░░   47.31 % 
+Bash                     49 mins             █████████░░░░░░░░░░░░░░░░   36.60 % 
+Text                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 
 🔥 Editors: 
-Antigravity IDE          1 hr 8 mins         ██████████████████████░░░   86.26 % 
-VS Code                  10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+Antigravity IDE          1 hr 8 mins         █████████████░░░░░░░░░░░░   50.52 % 
+VS Code                  1 hr 6 mins         ████████████░░░░░░░░░░░░░   49.48 % 
 
 💻 Operating System: 
-Windows                  1 hr 19 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -83,7 +88,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 29/07/2026 02:39:24 UTC
+ Last Updated on 30/07/2026 02:27:06 UTC
 <!--END_SECTION:waka-->
 <!--
 ---
