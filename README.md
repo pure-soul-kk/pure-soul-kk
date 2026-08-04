@@ -23,7 +23,7 @@ I usually code, study, watch anime. I'm diving into a few coding languages, and 
 ### What I've done so far
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%2051%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-29%20hrs%2050%20mins-blue?style=flat)
 
@@ -68,27 +68,27 @@ Sunday                   342 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C                        3 hrs 37 mins       ████████████████░░░░░░░░░   65.75 % 
-Text                     1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
-Bash                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
-Python                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+C                        3 hrs 35 mins       ████████████████░░░░░░░░░   65.58 % 
+Text                     1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
+Bash                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+Python                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
 JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 5 mins        ███████████████████░░░░░░   74.09 % 
-Antigravity IDE          1 hr 25 mins        ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
+VS Code                  4 hrs 3 mins        ██████████████████░░░░░░░   73.96 % 
+Antigravity IDE          1 hr 25 mins        ███████░░░░░░░░░░░░░░░░░░   26.04 % 
 
 💻 Operating System: 
-Windows                  5 hrs 6 mins        ███████████████████████░░   92.61 % 
-Linux                    24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+Windows                  5 hrs 4 mins        ███████████████████████░░   92.58 % 
+Linux                    24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 mins (8.01%)
+⏱ AI Coding Time: 26 mins (8.05%)
 
-✍️ 1 lines written by AI, 598 lines written by hand (0.17% AI-written)
+✍️ 1 lines written by AI, 587 lines written by hand (0.17% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -106,7 +106,7 @@ Gemini                   1 lines             ███████████�
 ```
 
 
- Last Updated on 03/08/2026 02:49:27 UTC
+ Last Updated on 04/08/2026 02:33:12 UTC
 <!--END_SECTION:waka-->
 <!--
 ---
