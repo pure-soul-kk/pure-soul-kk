@@ -27,13 +27,13 @@ I usually code, study, watch anime. I'm diving into a few coding languages, and 
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-31%20hrs%2010%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-252.66%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-252.63%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 133 Contributions in the Year 2026
+> 🏆 135 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -44,10 +44,10 @@ I usually code, study, watch anime. I'm diving into a few coding languages, and 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                303 commits         ███████░░░░░░░░░░░░░░░░░░   28.77 % 
+🌞 Morning                305 commits         ███████░░░░░░░░░░░░░░░░░░   28.96 % 
 🌆 Daytime                243 commits         ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-🌃 Evening                456 commits         ███████████░░░░░░░░░░░░░░   43.30 % 
-🌙 Night                  51 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+🌃 Evening                455 commits         ███████████░░░░░░░░░░░░░░   43.21 % 
+🌙 Night                  50 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
@@ -55,8 +55,8 @@ I usually code, study, watch anime. I'm diving into a few coding languages, and 
 Monday                   107 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
 Tuesday                  117 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
 Wednesday                89 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-Thursday                 114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-Friday                   141 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Thursday                 112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+Friday                   143 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
 Saturday                 142 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
 Sunday                   343 commits         ████████░░░░░░░░░░░░░░░░░   32.57 % 
 ```
@@ -68,26 +68,26 @@ Sunday                   343 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 7 mins              ████████░░░░░░░░░░░░░░░░░   31.25 % 
-HTML                     6 mins              ███████░░░░░░░░░░░░░░░░░░   29.43 % 
-Python                   6 mins              ███████░░░░░░░░░░░░░░░░░░   29.09 % 
-C                        1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
-C++                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+Markdown                 7 mins              ███████░░░░░░░░░░░░░░░░░░   29.81 % 
+HTML                     6 mins              ███████░░░░░░░░░░░░░░░░░░   28.07 % 
+Python                   6 mins              ███████░░░░░░░░░░░░░░░░░░   27.74 % 
+Bash                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+C++                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 
 🔥 Editors: 
-Antigravity IDE          14 mins             ████████████████░░░░░░░░░   64.73 % 
-VS Code                  8 mins              █████████░░░░░░░░░░░░░░░░   35.27 % 
+Antigravity IDE          17 mins             ██████████████████░░░░░░░   72.26 % 
+VS Code                  6 mins              ███████░░░░░░░░░░░░░░░░░░   27.74 % 
 
 💻 Operating System: 
-Windows                  23 mins             █████████████████████████   100.00 % 
+Windows                  24 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 mins (62.74%)
+⏱ AI Coding Time: 14 mins (59.84%)
 
-✍️ 0 lines written by AI, 36 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 31 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -103,7 +103,7 @@ Windows                  23 mins             ███████████�
 ```
 
 
- Last Updated on 14/08/2026 01:57:14 UTC
+ Last Updated on 15/08/2026 01:15:59 UTC
 <!--END_SECTION:waka-->
 <!--
 ---
