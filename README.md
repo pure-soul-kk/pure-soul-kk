@@ -23,7 +23,7 @@ I usually code, study, watch anime. I'm diving into a few coding languages, and 
 ### What I've done so far
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2020%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-31%20hrs%2010%20mins-blue?style=flat)
 
@@ -68,26 +68,44 @@ Sunday                   343 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C                        13 mins             ███████████████░░░░░░░░░░   59.03 % 
-Python                   6 mins              ███████░░░░░░░░░░░░░░░░░░   29.70 % 
-Bash                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+C                        35 mins             ███████████████░░░░░░░░░░   58.27 % 
+Bash                     9 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
+Other                    9 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+Python                   6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔥 Editors: 
-VS Code                  20 mins             ██████████████████████░░░   88.74 % 
-Antigravity IDE          2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+VS Code                  42 mins             █████████████████░░░░░░░░   69.51 % 
+Antigravity IDE          18 mins             ████████░░░░░░░░░░░░░░░░░   30.49 % 
 
 💻 Operating System: 
-Windows                  22 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 1 min          █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 14 mins (23.6%)
+
+✍️ 3 lines written by AI, 81 lines written by hand (3.57% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 2 AI Prompts
+
+Gemini                   3 lines             █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 3.57% of written lines came from AI
+📚 Verbose Prompter — average 3,497 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 96.63% of changed lines were hand-edited
 ```
 
 
- Last Updated on 16/08/2026 01:19:59 UTC
+ Last Updated on 17/08/2026 01:17:33 UTC
 <!--END_SECTION:waka-->
 <!--
 ---
