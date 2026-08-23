@@ -23,7 +23,7 @@ I usually code, study, watch anime. I'm diving into a few coding languages, and 
 ### What I've done so far
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%2054%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-31%20hrs%2048%20mins-blue?style=flat)
 
@@ -68,24 +68,24 @@ Sunday                   344 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C                        2 hrs 21 mins       ███████████████████░░░░░░   74.90 % 
-Other                    21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-Bash                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
-Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-Java                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+C                        2 hrs 8 mins        ██████████████████░░░░░░░   72.99 % 
+Other                    21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+Bash                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+Java                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 30 mins       ████████████████████░░░░░   79.29 % 
-Antigravity IDE          39 mins             █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
+VS Code                  2 hrs 16 mins       ███████████████████░░░░░░   77.71 % 
+Antigravity IDE          39 mins             ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
 
 💻 Operating System: 
-Windows                  3 hrs 9 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 38 mins (20.09%)
+⏱ AI Coding Time: 38 mins (21.62%)
 
 ✍️ 3 lines written by AI, 494 lines written by hand (0.6% AI-written)
 
@@ -105,7 +105,7 @@ Gemini                   17 lines            ███████████�
 ```
 
 
- Last Updated on 22/08/2026 01:15:50 UTC
+ Last Updated on 23/08/2026 01:26:20 UTC
 <!--END_SECTION:waka-->
 <!--
 ---
