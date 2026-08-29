@@ -68,23 +68,42 @@ Sunday                   344 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Text                     8 mins              █████████████████████████   100.00 % 
+C                        52 mins             ██████████████░░░░░░░░░░░   56.35 % 
+Other                    23 mins             ██████░░░░░░░░░░░░░░░░░░░   25.54 % 
+Python                   16 mins             █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.00 % 
+VS Code                  1 hr 9 mins         ███████████████████░░░░░░   74.46 % 
+Codex Vscode             23 mins             ██████░░░░░░░░░░░░░░░░░░░   25.54 % 
 
 💻 Operating System: 
-Windows                  8 mins              █████████████████████████   100.00 % 
+Windows                  1 hr 33 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 23 mins (25.54%)
+
+✍️ 0 lines written by AI, 218 lines written by hand (0.0% AI-written)
+
+🔤 17,238 Input Tokens, 4,659 Output Tokens
+
+💵 $0.11 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 7 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 229 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/08/2026 09:54:50 UTC
+ Last Updated on 29/08/2026 05:55:17 UTC
 <!--END_SECTION:waka-->
 <!--
 ---
