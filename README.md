@@ -23,7 +23,7 @@ I usually code, study, watch anime. I'm diving into a few coding languages, and 
 ### What I've done so far
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-53%20hrs%2021%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-31%20hrs%2048%20mins-blue?style=flat)
 
@@ -68,43 +68,25 @@ Sunday                   351 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     1 hr 10 mins        ██████████░░░░░░░░░░░░░░░   41.48 % 
-C                        58 mins             █████████░░░░░░░░░░░░░░░░   34.23 % 
-Other                    23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-Python                   17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+HTML                     1 hr 26 mins        █████████████░░░░░░░░░░░░   53.14 % 
+C                        58 mins             █████████░░░░░░░░░░░░░░░░   35.99 % 
+Python                   17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 26 mins       ██████████████████████░░░   86.06 % 
-Codex Vscode             23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+VS Code                  2 hrs 42 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 50 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 mins (13.94%)
-
-✍️ 0 lines written by AI, 833 lines written by hand (0.0% AI-written)
-
-🔤 17,238 Input Tokens, 4,659 Output Tokens
-
-💵 $0.11 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 7 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 229 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 31/08/2026 04:02:02 UTC
+ Last Updated on 01/09/2026 03:52:46 UTC
 <!--END_SECTION:waka-->
 <!--
 ---
