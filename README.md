@@ -23,7 +23,7 @@ I usually code, study, watch anime. I'm diving into a few coding languages, and 
 ### What I've done so far
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%2015%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20hrs%2029%20mins-blue?style=flat)
 
@@ -68,27 +68,27 @@ Sunday                   353 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C                        2 hrs 33 mins       ████████████████░░░░░░░░░   65.48 % 
-JavaScript               38 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-Python                   16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-HTML                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
-CSS                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+C                        2 hrs 33 mins       ██████████████████░░░░░░░   70.09 % 
+JavaScript               38 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
+Python                   16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+CSS                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 10 mins       ████████████████████░░░░░   81.24 % 
-Codex Vscode             37 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-Antigravity IDE          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+VS Code                  2 hrs 55 mins       ████████████████████░░░░░   79.91 % 
+Codex Vscode             37 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+Antigravity IDE          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
 
 💻 Operating System: 
-Windows                  3 hrs 54 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 40 mins (17.33%)
+⏱ AI Coding Time: 40 mins (18.55%)
 
-✍️ 883 lines written by AI, 824 lines written by hand (51.73% AI-written)
+✍️ 883 lines written by AI, 713 lines written by hand (55.33% AI-written)
 
 🔤 131,744 Input Tokens, 46,911 Output Tokens
 
@@ -99,14 +99,14 @@ Windows                  3 hrs 54 mins       ███████████�
 GPT                      976 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 51.73% of written lines came from AI
+⚖️ Balanced with AI — 55.33% of written lines came from AI
 📚 Verbose Prompter — average 2,120 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 48.06% of changed lines were hand-edited
+🚀 High AI Trust — 44.7% of changed lines were hand-edited
 ```
 
 
- Last Updated on 07/09/2026 03:13:14 UTC
+ Last Updated on 08/09/2026 03:21:33 UTC
 <!--END_SECTION:waka-->
 <!--
 ---
