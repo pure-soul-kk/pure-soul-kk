@@ -23,9 +23,9 @@ I usually code, study, watch anime. I'm diving into a few coding languages, and 
 ### What I've done so far
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%2027%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20hrs%2040%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-281.34%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -68,46 +68,44 @@ Sunday                   353 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C                        2 hrs 33 mins       █████████████████░░░░░░░░   66.55 % 
-JavaScript               38 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
-Python                   16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-HTML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-CSS                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+C                        2 hrs 33 mins       █████████████████████░░░░   83.75 % 
+Python                   16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+HTML                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 55 mins       ███████████████████░░░░░░   75.88 % 
-Codex Vscode             37 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-Copilot CLI              11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-Antigravity IDE          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+VS Code                  2 hrs 51 mins       ███████████████████████░░   93.64 % 
+Copilot CLI              11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
 
 💻 Operating System: 
-Windows                  3 hrs 51 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 52 mins (22.67%)
+⏱ AI Coding Time: 11 mins (6.36%)
 
-✍️ 1,106 lines written by AI, 713 lines written by hand (60.8% AI-written)
+✍️ 223 lines written by AI, 712 lines written by hand (23.85% AI-written)
 
-🔤 164,582 Input Tokens, 51,247 Output Tokens
+🔤 32,838 Input Tokens, 4,336 Output Tokens
 
-💵 $1.91 Estimated AI Cost This Week
+💵 $0.01 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 11 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
-GPT                      1,199 lines         █████████████████████████   100.00 % 
+GPT                      223 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 60.8% of written lines came from AI
-📚 Verbose Prompter — average 1,975 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 39.69% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 23.85% of written lines came from AI
+📄 Detailed Prompter — average 530 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 77.94% of changed lines were hand-edited
 ```
 
 
- Last Updated on 09/09/2026 03:24:36 UTC
+ Last Updated on 10/09/2026 03:23:57 UTC
 <!--END_SECTION:waka-->
 <!--
 ---
