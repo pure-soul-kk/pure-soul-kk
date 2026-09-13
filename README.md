@@ -44,21 +44,21 @@ I usually code, study, watch anime. I'm diving into a few coding languages, and 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                313 commits         ███████░░░░░░░░░░░░░░░░░░   28.74 % 
-🌆 Daytime                252 commits         ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
-🌃 Evening                472 commits         ███████████░░░░░░░░░░░░░░   43.34 % 
-🌙 Night                  52 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+🌞 Morning                313 commits         ███████░░░░░░░░░░░░░░░░░░   28.69 % 
+🌆 Daytime                252 commits         ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
+🌃 Evening                474 commits         ███████████░░░░░░░░░░░░░░   43.45 % 
+🌙 Night                  52 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   107 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-Tuesday                  122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-Wednesday                105 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-Thursday                 114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-Friday                   145 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Saturday                 143 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-Sunday                   353 commits         ████████░░░░░░░░░░░░░░░░░   32.42 % 
+Monday                   107 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+Tuesday                  122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+Wednesday                105 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+Thursday                 114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+Friday                   145 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Saturday                 145 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Sunday                   353 commits         ████████░░░░░░░░░░░░░░░░░   32.36 % 
 ```
 
 
@@ -68,23 +68,22 @@ Sunday                   353 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C                        23 mins             ███████████░░░░░░░░░░░░░░   45.28 % 
-Python                   16 mins             ████████░░░░░░░░░░░░░░░░░   32.23 % 
-HTML                     11 mins             ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+C                        18 mins             ██████████░░░░░░░░░░░░░░░   38.84 % 
+Python                   16 mins             █████████░░░░░░░░░░░░░░░░   36.08 % 
+HTML                     11 mins             ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
 
 🔥 Editors: 
-VS Code                  40 mins             ███████████████████░░░░░░   77.60 % 
-Copilot CLI              11 mins             ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
+VS Code                  34 mins             ███████████████████░░░░░░   74.92 % 
+Copilot CLI              11 mins             ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
 
 💻 Operating System: 
-Windows                  52 mins             █████████████████████████   100.00 % 
+Windows                  46 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 mins (22.4%)
+⏱ AI Coding Time: 11 mins (25.08%)
 
 ✍️ 223 lines written by AI, 83 lines written by hand (72.88% AI-written)
 
@@ -100,11 +99,11 @@ GPT                      223 lines           ███████████�
 🤖 AI-Driven — 72.88% of written lines came from AI
 📄 Detailed Prompter — average 530 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 30.96% of changed lines were hand-edited
+🚀 High AI Trust — 30.53% of changed lines were hand-edited
 ```
 
 
- Last Updated on 12/09/2026 03:25:23 UTC
+ Last Updated on 13/09/2026 03:30:47 UTC
 <!--END_SECTION:waka-->
 <!--
 ---
