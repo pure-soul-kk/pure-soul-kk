@@ -27,13 +27,13 @@ I usually code, study, watch anime. I'm diving into a few coding languages, and 
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20hrs%2040%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-282.35%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-300.96%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 139 Contributions in the Year 2026
+> 🏆 147 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -44,21 +44,21 @@ I usually code, study, watch anime. I'm diving into a few coding languages, and 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                325 commits         ███████░░░░░░░░░░░░░░░░░░   29.47 % 
-🌆 Daytime                252 commits         ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
-🌃 Evening                474 commits         ███████████░░░░░░░░░░░░░░   42.97 % 
-🌙 Night                  52 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+🌞 Morning                328 commits         ███████░░░░░░░░░░░░░░░░░░   29.18 % 
+🌆 Daytime                255 commits         ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
+🌃 Evening                486 commits         ███████████░░░░░░░░░░░░░░   43.24 % 
+🌙 Night                  55 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   109 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Tuesday                  122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-Wednesday                105 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Thursday                 114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Friday                   145 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Saturday                 145 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Sunday                   363 commits         ████████░░░░░░░░░░░░░░░░░   32.91 % 
+Monday                   110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+Tuesday                  134 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Wednesday                110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+Thursday                 114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+Friday                   145 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Saturday                 148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+Sunday                   363 commits         ████████░░░░░░░░░░░░░░░░░   32.30 % 
 ```
 
 
@@ -68,41 +68,27 @@ Sunday                   363 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     11 mins             ██████████████████████░░░   87.16 % 
-C                        1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+C                        1 hr 16 mins        ████████████████░░░░░░░░░   63.21 % 
+Python                   32 mins             ███████░░░░░░░░░░░░░░░░░░   26.82 % 
+Java                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
 
 🔥 Editors: 
-Copilot CLI              11 mins             ██████████████████████░░░   87.16 % 
-VS Code                  1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+VS Code                  2 hrs               █████████████████████████   99.79 % 
+Antigravity IDE          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 💻 Operating System: 
-Windows                  13 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 mins (87.16%)
-
-✍️ 223 lines written by AI, 16 lines written by hand (93.31% AI-written)
-
-🔤 32,838 Input Tokens, 4,336 Output Tokens
-
-💵 $0.01 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-GPT                      223 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 93.31% of written lines came from AI
-📄 Detailed Prompter — average 530 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 6.69% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 15/09/2026 03:42:08 UTC
+ Last Updated on 16/09/2026 03:38:46 UTC
 <!--END_SECTION:waka-->
 <!--
 ---
