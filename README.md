@@ -25,15 +25,15 @@ I usually code, study, watch anime. I'm diving into a few coding languages, and 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2033%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20hrs%2058%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20hrs%2059%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-301.19%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-301.15%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 150 Contributions in the Year 2026
+> 🏆 148 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -44,21 +44,21 @@ I usually code, study, watch anime. I'm diving into a few coding languages, and 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                330 commits         ███████░░░░░░░░░░░░░░░░░░   29.15 % 
-🌆 Daytime                255 commits         ██████░░░░░░░░░░░░░░░░░░░   22.53 % 
-🌃 Evening                490 commits         ███████████░░░░░░░░░░░░░░   43.29 % 
-🌙 Night                  57 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+🌞 Morning                327 commits         ███████░░░░░░░░░░░░░░░░░░   29.07 % 
+🌆 Daytime                251 commits         ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
+🌃 Evening                494 commits         ███████████░░░░░░░░░░░░░░   43.91 % 
+🌙 Night                  53 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-Tuesday                  133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-Wednesday                111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-Thursday                 112 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-Friday                   147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-Saturday                 153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-Sunday                   366 commits         ████████░░░░░░░░░░░░░░░░░   32.33 % 
+Monday                   106 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+Tuesday                  128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+Wednesday                111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+Thursday                 112 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+Friday                   146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+Saturday                 151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+Sunday                   371 commits         ████████░░░░░░░░░░░░░░░░░   32.98 % 
 ```
 
 
@@ -68,28 +68,28 @@ Sunday                   366 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C                        1 hr 16 mins        █████████████░░░░░░░░░░░░   52.87 % 
-Python                   32 mins             ██████░░░░░░░░░░░░░░░░░░░   22.43 % 
-Other                    18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-Java                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-Bash                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+C                        1 hr 14 mins        █████████████░░░░░░░░░░░░   52.30 % 
+Python                   32 mins             ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
+Other                    18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+Java                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+Bash                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
 
 🔥 Editors: 
-VS Code                  2 hrs               █████████████████████░░░░   83.47 % 
-Antigravity CLI          15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-Antigravity IDE          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+VS Code                  1 hr 59 mins        █████████████████████░░░░   83.27 % 
+Antigravity CLI          15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+Antigravity IDE          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
 
 💻 Operating System: 
-Windows                  2 hrs 8 mins        ██████████████████████░░░   88.97 % 
-Linux                    15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+Windows                  2 hrs 7 mins        ██████████████████████░░░   88.84 % 
+Linux                    15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 mins (13.01%)
+⏱ AI Coding Time: 18 mins (13.17%)
 
-✍️ 0 lines written by AI, 141 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 125 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -105,7 +105,7 @@ Linux                    15 mins             ███░░░░░░░░�
 ```
 
 
- Last Updated on 20/09/2026 03:44:34 UTC
+ Last Updated on 21/09/2026 03:40:47 UTC
 <!--END_SECTION:waka-->
 <!--
 ---
