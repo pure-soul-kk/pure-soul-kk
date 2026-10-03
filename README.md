@@ -68,43 +68,42 @@ Sunday                   375 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    19 mins             ████████████████░░░░░░░░░   63.74 % 
-Markdown                 6 mins              █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
-C                        4 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+Other                    10 mins             █████████████████░░░░░░░░   69.61 % 
+C                        4 mins              ████████░░░░░░░░░░░░░░░░░   30.39 % 
 
 🔥 Editors: 
-VS Code                  24 mins             ████████████████████░░░░░   78.73 % 
-Antigravity CLI          6 mins              █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
+Antigravity CLI          8 mins              ██████████████░░░░░░░░░░░   55.22 % 
+VS Code                  6 mins              ███████████░░░░░░░░░░░░░░   44.78 % 
 
 💻 Operating System: 
-Windows                  24 mins             ████████████████████░░░░░   78.73 % 
-Linux                    6 mins              █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
+Linux                    8 mins              ██████████████░░░░░░░░░░░   55.22 % 
+Windows                  6 mins              ███████████░░░░░░░░░░░░░░   44.78 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 mins (21.27%)
+⏱ AI Coding Time: 8 mins (55.22%)
 
 ✍️ 0 lines written by AI, 28 lines written by hand (0.0% AI-written)
 
-🔤 48,289 Input Tokens, 1,235 Output Tokens
+🔤 255,247 Input Tokens, 6,392 Output Tokens
 
-💵 $0.22 Estimated AI Cost This Week
+💵 $1.15 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 40 AI Prompts
+🧠 1 AI Sessions, 4 AI Prompts
 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 33 characters per prompt
-🔁 Iterative Prompter — average 40 prompts per session
+📝 Concise Prompter — average 32 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 02/10/2026 04:23:15 UTC
+ Last Updated on 03/10/2026 04:05:29 UTC
 <!--END_SECTION:waka-->
 <!--
 ---
