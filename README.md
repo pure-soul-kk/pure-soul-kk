@@ -25,7 +25,7 @@ I usually code, study, watch anime. I'm diving into a few coding languages, and 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2039%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-34%20hrs%2055%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-35%20hrs%201%20min-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-469.10%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -68,42 +68,45 @@ Sunday                   373 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    14 mins             ███████████████████░░░░░░   75.67 % 
-C                        4 mins              ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
+Other                    39 mins             █████████████░░░░░░░░░░░░   51.81 % 
+XML                      22 mins             ███████░░░░░░░░░░░░░░░░░░   29.44 % 
+Kotlin                   7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+C                        4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 
 🔥 Editors: 
-Antigravity CLI          14 mins             ███████████████████░░░░░░   75.67 % 
-VS Code                  4 mins              ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
+Antigravity CLI          1 hr 10 mins        ███████████████████████░░   93.89 % 
+VS Code                  4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
 
 💻 Operating System: 
-Linux                    14 mins             ███████████████████░░░░░░   75.67 % 
-Windows                  4 mins              ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
+Linux                    1 hr 10 mins        ███████████████████████░░   93.89 % 
+Windows                  4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 mins (75.67%)
+⏱ AI Coding Time: 1 hr 10 mins (93.89%)
 
 ✍️ 0 lines written by AI, 28 lines written by hand (0.0% AI-written)
 
-🔤 255,247 Input Tokens, 6,392 Output Tokens
+🔤 376,421 Input Tokens, 23,198 Output Tokens
 
-💵 $1.15 Estimated AI Cost This Week
+💵 $1.97 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 6 AI Prompts
+🧠 6 AI Sessions, 40 AI Prompts
 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 30 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📝 Concise Prompter — average 59 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 04/10/2026 04:39:00 UTC
+ Last Updated on 05/10/2026 04:24:25 UTC
 <!--END_SECTION:waka-->
 <!--
 ---
