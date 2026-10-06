@@ -23,9 +23,9 @@ I usually code, study, watch anime. I'm diving into a few coding languages, and 
 ### What I've done so far
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-35%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-35%20hrs%2058%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-469.10%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -68,25 +68,25 @@ Sunday                   373 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    39 mins             █████████████░░░░░░░░░░░░   51.81 % 
-XML                      22 mins             ███████░░░░░░░░░░░░░░░░░░   29.44 % 
-Kotlin                   7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-C                        4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
-Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Other                    48 mins             ██████████████░░░░░░░░░░░   57.33 % 
+XML                      22 mins             ███████░░░░░░░░░░░░░░░░░░   26.07 % 
+Kotlin                   7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+C                        4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 
 🔥 Editors: 
-Antigravity CLI          1 hr 10 mins        ███████████████████████░░   93.89 % 
-VS Code                  4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+Antigravity CLI          1 hr 20 mins        ████████████████████████░   94.59 % 
+VS Code                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
 
 💻 Operating System: 
-Linux                    1 hr 10 mins        ███████████████████████░░   93.89 % 
-Windows                  4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+Linux                    1 hr 20 mins        ████████████████████████░   94.59 % 
+Windows                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 10 mins (93.89%)
+⏱ AI Coding Time: 1 hr 20 mins (94.59%)
 
 ✍️ 0 lines written by AI, 28 lines written by hand (0.0% AI-written)
 
@@ -94,19 +94,19 @@ Windows                  4 mins              ██░░░░░░░░░�
 
 💵 $1.97 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 40 AI Prompts
+🧠 7 AI Sessions, 45 AI Prompts
 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 59 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📝 Concise Prompter — average 86 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 05/10/2026 04:24:25 UTC
+ Last Updated on 06/10/2026 05:12:32 UTC
 <!--END_SECTION:waka-->
 <!--
 ---
