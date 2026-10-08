@@ -23,9 +23,9 @@ I usually code, study, watch anime. I'm diving into a few coding languages, and 
 ### What I've done so far
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2038%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs%2035%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-469.10%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -33,7 +33,7 @@ I usually code, study, watch anime. I'm diving into a few coding languages, and 
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 150 Contributions in the Year 2026
+> 🏆 136 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -68,46 +68,44 @@ Sunday                   373 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    48 mins             ███████████░░░░░░░░░░░░░░   43.27 % 
-C++                      24 mins             █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
-XML                      22 mins             █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
-C                        7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
-Kotlin                   7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+Other                    48 mins             ██████████░░░░░░░░░░░░░░░   40.24 % 
+C++                      24 mins             █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
+XML                      22 mins             █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
+Diff                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+Kotlin                   7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
 
 🔥 Editors: 
-Antigravity CLI          1 hr 48 mins        ████████████████████████░   95.92 % 
-VS Code                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Antigravity CLI          2 hrs 1 min         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 48 mins        ████████████████████████░   95.92 % 
-Windows                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Linux                    2 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 48 mins (95.92%)
+⏱ AI Coding Time: 2 hrs 1 min (100.0%)
 
-✍️ 0 lines written by AI, 28 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 935,274 Input Tokens, 49,811 Output Tokens
+🔤 1,118,683 Input Tokens, 52,966 Output Tokens
 
-💵 $3.41 Estimated AI Cost This Week
+💵 $3.81 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 53 AI Prompts
+🧠 11 AI Sessions, 58 AI Prompts
 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 81 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 79 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 07/10/2026 04:40:01 UTC
+ Last Updated on 08/10/2026 04:50:26 UTC
 <!--END_SECTION:waka-->
 <!--
 ---
