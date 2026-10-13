@@ -23,11 +23,11 @@ I usually code, study, watch anime. I'm diving into a few coding languages, and 
 ### What I've done so far
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2058%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs%2048%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs%2054%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-469.10%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-475.16%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -39,26 +39,26 @@ I usually code, study, watch anime. I'm diving into a few coding languages, and 
  > 
 > 📜 28 Public Repositories 
  > 
-> 🔑 18 Private Repositories 
+> 🔑 19 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                338 commits         ███████░░░░░░░░░░░░░░░░░░   29.11 % 
-🌆 Daytime                255 commits         █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
-🌃 Evening                511 commits         ███████████░░░░░░░░░░░░░░   44.01 % 
-🌙 Night                  57 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+🌞 Morning                338 commits         ███████░░░░░░░░░░░░░░░░░░   28.96 % 
+🌆 Daytime                255 commits         █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
+🌃 Evening                517 commits         ███████████░░░░░░░░░░░░░░   44.30 % 
+🌙 Night                  57 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   106 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
-Tuesday                  139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Wednesday                114 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-Thursday                 113 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-Friday                   149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-Saturday                 167 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-Sunday                   373 commits         ████████░░░░░░░░░░░░░░░░░   32.13 % 
+Monday                   112 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+Tuesday                  139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+Wednesday                114 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+Thursday                 113 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Friday                   149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Saturday                 167 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+Sunday                   373 commits         ████████░░░░░░░░░░░░░░░░░   31.96 % 
 ```
 
 
@@ -68,44 +68,45 @@ Sunday                   373 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      24 mins             ███████████░░░░░░░░░░░░░░   43.49 % 
-Diff                     13 mins             ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
-Other                    9 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-Markdown                 6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-C                        3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+C++                      25 mins             ███████░░░░░░░░░░░░░░░░░░   28.64 % 
+Kotlin                   19 mins             ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
+YAML                     14 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+Diff                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+Markdown                 9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
 
 🔥 Editors: 
-Antigravity CLI          56 mins             █████████████████████████   100.00 % 
+Antigravity CLI          46 mins             █████████████░░░░░░░░░░░░   52.35 % 
+Antigravity IDE          42 mins             ████████████░░░░░░░░░░░░░   47.65 % 
 
 💻 Operating System: 
-Linux                    56 mins             █████████████████████████   100.00 % 
+Linux                    46 mins             █████████████░░░░░░░░░░░░   52.35 % 
+Windows                  42 mins             ████████████░░░░░░░░░░░░░   47.65 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 56 mins (100.0%)
+⏱ AI Coding Time: 1 hr 26 mins (96.42%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 6,504 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,443,608 Input Tokens, 51,946 Output Tokens
+🔤 2,398,950 Input Tokens, 196,512 Output Tokens
 
-💵 $4.06 Estimated AI Cost This Week
+💵 $7.11 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 23 AI Prompts
+🧠 7 AI Sessions, 24 AI Prompts
 
-Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Gemini                   6,509 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 115 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 324 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 12/10/2026 04:39:39 UTC
+ Last Updated on 13/10/2026 05:46:03 UTC
 <!--END_SECTION:waka-->
 <!--
 ---
