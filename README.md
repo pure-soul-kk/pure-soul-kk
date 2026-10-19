@@ -27,7 +27,7 @@ I usually code, study, watch anime. I'm diving into a few coding languages, and 
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-38%20hrs%2018%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-307.51%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-307.44%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -46,16 +46,16 @@ I usually code, study, watch anime. I'm diving into a few coding languages, and 
 ```text
 🌞 Morning                332 commits         ███████░░░░░░░░░░░░░░░░░░   29.28 % 
 🌆 Daytime                251 commits         ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
-🌃 Evening                495 commits         ███████████░░░░░░░░░░░░░░   43.65 % 
-🌙 Night                  56 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+🌃 Evening                494 commits         ███████████░░░░░░░░░░░░░░   43.56 % 
+🌙 Night                  57 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+Monday                   112 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
 Tuesday                  129 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
 Wednesday                112 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Thursday                 115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+Thursday                 113 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
 Friday                   139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
 Saturday                 156 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
 Sunday                   373 commits         ████████░░░░░░░░░░░░░░░░░   32.89 % 
@@ -68,26 +68,26 @@ Sunday                   373 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C                        2 hrs 26 mins       ███████████████░░░░░░░░░░   58.72 % 
-Other                    46 mins             █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
-Kotlin                   19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
-YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+C                        2 hrs 26 mins       ███████████████░░░░░░░░░░   60.19 % 
+Other                    46 mins             █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
+Kotlin                   19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+YAML                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+Python                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 41 mins       ████████████████░░░░░░░░░   64.50 % 
-Antigravity CLI          45 mins             █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
-Antigravity IDE          42 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+VS Code                  2 hrs 41 mins       █████████████████░░░░░░░░   66.11 % 
+Antigravity IDE          42 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+Antigravity CLI          39 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
 
 💻 Operating System: 
-Windows                  3 hrs 6 mins        ███████████████████░░░░░░   74.66 % 
-Linux                    1 hr 3 mins         ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
+Windows                  3 hrs 6 mins        ███████████████████░░░░░░   76.52 % 
+Linux                    57 mins             ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 29 mins (35.82%)
+⏱ AI Coding Time: 1 hr 23 mins (34.22%)
 
 ✍️ 6,504 lines written by AI, 526 lines written by hand (92.52% AI-written)
 
@@ -95,19 +95,19 @@ Linux                    1 hr 3 mins         ██████░░░░░�
 
 💵 $5.50 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 28 AI Prompts
+🧠 5 AI Sessions, 25 AI Prompts
 
 Gemini                   6,509 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 92.52% of written lines came from AI
-📚 Verbose Prompter — average 1,567 characters per prompt
+📚 Verbose Prompter — average 1,751 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 12.03% of changed lines were hand-edited
 ```
 
 
- Last Updated on 18/10/2026 03:19:58 UTC
+ Last Updated on 19/10/2026 03:32:54 UTC
 <!--END_SECTION:waka-->
 <!--
 ---
