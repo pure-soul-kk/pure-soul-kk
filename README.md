@@ -44,10 +44,10 @@ I usually code, study, watch anime. I'm diving into a few coding languages, and 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                332 commits         ███████░░░░░░░░░░░░░░░░░░   29.28 % 
+🌞 Morning                334 commits         ███████░░░░░░░░░░░░░░░░░░   29.45 % 
 🌆 Daytime                251 commits         ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
 🌃 Evening                494 commits         ███████████░░░░░░░░░░░░░░   43.56 % 
-🌙 Night                  57 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+🌙 Night                  55 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
@@ -68,46 +68,45 @@ Sunday                   373 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C                        2 hrs 26 mins       ███████████████░░░░░░░░░░   60.19 % 
-Other                    46 mins             █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
-Kotlin                   19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-YAML                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-Python                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+C                        2 hrs 26 mins       ██████████████████░░░░░░░   72.97 % 
+Other                    46 mins             ██████░░░░░░░░░░░░░░░░░░░   23.06 % 
+Python                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 41 mins       █████████████████░░░░░░░░   66.11 % 
-Antigravity IDE          42 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
-Antigravity CLI          39 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+VS Code                  2 hrs 41 mins       ████████████████████░░░░░   80.15 % 
+Antigravity CLI          39 mins             █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
 
 💻 Operating System: 
-Windows                  3 hrs 6 mins        ███████████████████░░░░░░   76.52 % 
-Linux                    57 mins             ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
+Windows                  2 hrs 23 mins       ██████████████████░░░░░░░   71.53 % 
+Linux                    57 mins             ███████░░░░░░░░░░░░░░░░░░   28.47 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 23 mins (34.22%)
+⏱ AI Coding Time: 43 mins (21.85%)
 
-✍️ 6,504 lines written by AI, 526 lines written by hand (92.52% AI-written)
+✍️ 0 lines written by AI, 526 lines written by hand (0.0% AI-written)
 
-🔤 1,840,089 Input Tokens, 170,087 Output Tokens
+🔤 1,154,170 Input Tokens, 40,624 Output Tokens
 
-💵 $5.50 Estimated AI Cost This Week
+💵 $0.67 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 25 AI Prompts
+🧠 4 AI Sessions, 19 AI Prompts
 
-Gemini                   6,509 lines         █████████████████████████   100.00 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.52% of written lines came from AI
-📚 Verbose Prompter — average 1,751 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📚 Verbose Prompter — average 1,956 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 12.03% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 19/10/2026 03:32:54 UTC
+ Last Updated on 20/10/2026 03:42:22 UTC
 <!--END_SECTION:waka-->
 <!--
 ---
