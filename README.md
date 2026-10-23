@@ -68,42 +68,39 @@ Sunday                   373 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C                        2 hrs 26 mins       ████████████████████████░   95.12 % 
-Python                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+C                        1 hr 43 mins        █████████████████████████   99.99 % 
 Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 26 mins       ████████████████████████░   95.13 % 
-Antigravity CLI          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+VS Code                  1 hr 43 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 9 mins        █████████████████████░░░░   83.90 % 
-Linux                    24 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+Windows                  1 hr 25 mins        █████████████████████░░░░   83.23 % 
+Linux                    17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 mins (7.48%)
+⏱ AI Coding Time: 4 mins (3.89%)
 
-✍️ 0 lines written by AI, 526 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 443 lines written by hand (0.0% AI-written)
 
-🔤 197,322 Input Tokens, 8,267 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 13 AI Prompts
+🧠 1 AI Sessions, 7 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 2,829 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📚 Verbose Prompter — average 5,127 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 22/10/2026 03:34:39 UTC
+ Last Updated on 23/10/2026 03:39:40 UTC
 <!--END_SECTION:waka-->
 <!--
 ---
