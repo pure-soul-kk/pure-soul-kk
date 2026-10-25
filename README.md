@@ -27,13 +27,13 @@ I usually code, study, watch anime. I'm diving into a few coding languages, and 
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-38%20hrs%2018%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-307.59%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-307.44%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 112 Contributions in the Year 2026
+> 🏆 114 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -44,21 +44,21 @@ I usually code, study, watch anime. I'm diving into a few coding languages, and 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                340 commits         ███████░░░░░░░░░░░░░░░░░░   29.85 % 
-🌆 Daytime                251 commits         ██████░░░░░░░░░░░░░░░░░░░   22.04 % 
-🌃 Evening                492 commits         ███████████░░░░░░░░░░░░░░   43.20 % 
-🌙 Night                  56 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+🌞 Morning                336 commits         ███████░░░░░░░░░░░░░░░░░░   29.58 % 
+🌆 Daytime                251 commits         ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
+🌃 Evening                493 commits         ███████████░░░░░░░░░░░░░░   43.40 % 
+🌙 Night                  56 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   112 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-Tuesday                  130 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-Wednesday                112 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-Thursday                 117 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
-Friday                   142 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-Saturday                 153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-Sunday                   373 commits         ████████░░░░░░░░░░░░░░░░░   32.75 % 
+Monday                   110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Tuesday                  130 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+Wednesday                114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+Thursday                 113 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+Friday                   142 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Saturday                 153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Sunday                   374 commits         ████████░░░░░░░░░░░░░░░░░   32.92 % 
 ```
 
 
@@ -68,23 +68,42 @@ Sunday                   373 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Kotlin                   3 mins              ████████████████████░░░░░   80.79 % 
+XML                      0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+Makefile                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Antigravity IDE          3 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 3 mins (100.0%)
+
+✍️ 6 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 59,216 Input Tokens, 6,974 Output Tokens
+
+💵 $0.28 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 2 AI Prompts
+
+Sonnet                   7 lines             █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 128 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 24/10/2026 03:34:01 UTC
+ Last Updated on 25/10/2026 03:29:56 UTC
 <!--END_SECTION:waka-->
 <!--
 ---
