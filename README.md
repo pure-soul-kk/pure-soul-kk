@@ -27,7 +27,7 @@ I usually code, study, watch anime. I'm diving into a few coding languages, and 
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-38%20hrs%2022%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-307.44%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-307.54%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -44,21 +44,21 @@ I usually code, study, watch anime. I'm diving into a few coding languages, and 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                336 commits         ███████░░░░░░░░░░░░░░░░░░   29.58 % 
-🌆 Daytime                251 commits         ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
-🌃 Evening                493 commits         ███████████░░░░░░░░░░░░░░   43.40 % 
-🌙 Night                  56 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+🌞 Morning                336 commits         ███████░░░░░░░░░░░░░░░░░░   29.53 % 
+🌆 Daytime                251 commits         ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
+🌃 Evening                494 commits         ███████████░░░░░░░░░░░░░░   43.41 % 
+🌙 Night                  57 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-Tuesday                  130 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
-Wednesday                114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
-Thursday                 113 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-Friday                   142 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Saturday                 153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-Sunday                   374 commits         ████████░░░░░░░░░░░░░░░░░   32.92 % 
+Monday                   110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+Tuesday                  130 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+Wednesday                114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+Thursday                 115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+Friday                   142 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+Saturday                 153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+Sunday                   374 commits         ████████░░░░░░░░░░░░░░░░░   32.86 % 
 ```
 
 
@@ -68,24 +68,26 @@ Sunday                   374 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Kotlin                   3 mins              ████████████████████░░░░░   80.79 % 
-XML                      0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-Makefile                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
-Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+C                        21 mins             █████████████████████░░░░   84.45 % 
+Kotlin                   3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🔥 Editors: 
-Antigravity IDE          3 mins              █████████████████████████   100.00 % 
+VS Code                  21 mins             █████████████████████░░░░   84.45 % 
+Antigravity IDE          3 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.00 % 
+Windows                  25 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 mins (100.0%)
+⏱ AI Coding Time: 3 mins (15.55%)
 
-✍️ 6 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 6 lines written by AI, 441 lines written by hand (1.34% AI-written)
 
 🔤 59,216 Input Tokens, 6,974 Output Tokens
 
@@ -96,14 +98,14 @@ Windows                  3 mins              ███████████�
 Sonnet                   7 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 1.34% of written lines came from AI
 📝 Concise Prompter — average 128 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 98.71% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/10/2026 03:59:00 UTC
+ Last Updated on 28/10/2026 04:19:28 UTC
 <!--END_SECTION:waka-->
 <!--
 ---
