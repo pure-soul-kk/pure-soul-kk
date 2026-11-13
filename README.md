@@ -39,26 +39,26 @@ I usually code, study, watch anime. I'm diving into a few coding languages, and 
  > 
 > 📜 28 Public Repositories 
  > 
-> 🔑 19 Private Repositories 
+> 🔑 20 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                336 commits         ███████░░░░░░░░░░░░░░░░░░   29.55 % 
-🌆 Daytime                251 commits         ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
-🌃 Evening                493 commits         ███████████░░░░░░░░░░░░░░   43.36 % 
-🌙 Night                  57 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+🌞 Morning                336 commits         ███████░░░░░░░░░░░░░░░░░░   29.50 % 
+🌆 Daytime                253 commits         ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
+🌃 Evening                494 commits         ███████████░░░░░░░░░░░░░░   43.37 % 
+🌙 Night                  56 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
-Tuesday                  130 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-Wednesday                115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-Thursday                 115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-Friday                   142 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-Saturday                 153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-Sunday                   372 commits         ████████░░░░░░░░░░░░░░░░░   32.72 % 
+Monday                   110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+Tuesday                  130 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+Wednesday                115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+Thursday                 118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+Friday                   142 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+Saturday                 153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+Sunday                   371 commits         ████████░░░░░░░░░░░░░░░░░   32.57 % 
 ```
 
 
@@ -68,45 +68,43 @@ Sunday                   372 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    1 hr 34 mins        ███████████████████████░░   91.83 % 
-Python                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
-C                        2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+Other                    24 mins             ████████████████████░░░░░   81.61 % 
+Python                   5 mins              █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
 
 🔥 Editors: 
-Code Server              1 hr 26 mins        █████████████████████░░░░   83.46 % 
-Antigravity CLI          8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-VS Code                  8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+Code Server              16 mins             █████████████░░░░░░░░░░░░   53.07 % 
+Antigravity CLI          8 mins              ███████░░░░░░░░░░░░░░░░░░   28.54 % 
+VS Code                  5 mins              █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
 
 💻 Operating System: 
-Linux                    1 hr 31 mins        ██████████████████████░░░   88.86 % 
-WSL                      8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-Windows                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+Linux                    21 mins             ██████████████████░░░░░░░   71.46 % 
+WSL                      8 mins              ███████░░░░░░░░░░░░░░░░░░   28.54 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 34 mins (91.83%)
+⏱ AI Coding Time: 24 mins (81.61%)
 
-✍️ 0 lines written by AI, 3 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 64,059 Input Tokens, 3,461 Output Tokens
+🔤 12,784 Input Tokens, 1,717 Output Tokens
 
-💵 $0.17 Estimated AI Cost This Week
+💵 $0.05 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 16 AI Prompts
+🧠 4 AI Sessions, 7 AI Prompts
 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 61 characters per prompt
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 27 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 12/11/2026 06:01:20 UTC
+ Last Updated on 13/11/2026 05:23:27 UTC
 <!--END_SECTION:waka-->
 <!--
 ---
